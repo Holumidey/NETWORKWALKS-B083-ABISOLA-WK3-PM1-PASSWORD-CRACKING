@@ -77,7 +77,7 @@ I downloaded the password-protected PDF supplied as part of the Networkwalks Wee
 
 **Screenshot 1: Downloaded/available protected PDF**
 
-`![Screenshot – Protected PDF](screenshots/jtr/01-protected-pdf.png)`
+`![Screenshot – Protected PDF](Week3Shot/protectedPDF.png)`
 
 ---
 
@@ -89,7 +89,7 @@ The `john.exe` file is located within the JTR `run` directory.
 
 **Screenshot 2: Johnny configuration showing john.exe**
 
-`![Screenshot – Johnny Configuration](screenshots/jtr/02-johnny-configuration.png)`
+`![Screenshot – Johnny Configuration](Week3Shot/jonnyconf.png)`
 
 ---
 
@@ -103,7 +103,7 @@ The extracted hash was checked to ensure it was in the expected PDF hash format 
 
 **Screenshot 3: Extracted PDF hash**
 
-`![Screenshot – PDF Hash](screenshots/jtr/03-pdf-hash.png)`
+`![Screenshot – PDF Hash](Week3Shot/PDFhash.png)`
 
 > For security and presentation purposes, the full hash can be partially redacted in the public GitHub repository if necessary.
 
@@ -119,7 +119,7 @@ This file was then supplied to Johnny as the password/hash file for the attack.
 
 **Screenshot 4: hash1.txt containing the extracted hash**
 
-`![Screenshot – Hash File](screenshots/jtr/04-hash-file.png)`
+`![Screenshot – Hash File](Week3Shot/hashtext.png)`
 
 ---
 
@@ -141,7 +141,7 @@ The password was successfully recovered by the tool.
 
 **Screenshot 6: Successfully recovered password**
 
-`![Screenshot – Cracked Password](screenshots/jtr/06-cracked-password.png)`
+`![Screenshot – Cracked Password](Week3Shot/crackedpassword.png)`
 
 For this lab, the recovered password was:
 
@@ -157,7 +157,7 @@ The document opened successfully, confirming that the recovered password was cor
 
 **Screenshot 7: Successfully opened PDF**
 
-`![Screenshot – Opened PDF](screenshots/jtr/07-opened-pdf.png)`
+`![Screenshot – Opened PDF](Week3Shot/openPDF.png)`
 
 ---
 
@@ -210,7 +210,7 @@ The protected PDF was uploaded to the tool so that its password hash could be ex
 
 **Screenshot 8: Networkwalks Hash Calculator**
 
-`![Screenshot – Hash Calculator](screenshots/networkwalks-tools/01-hash-calculator.png)`
+`![Screenshot – Hash Calculator](Week3Shot/hashcalculator.png)`
 
 ---
 
@@ -222,7 +222,7 @@ The generated hash began with the expected `$pdf$` format.
 
 **Screenshot 9: Generated PDF hash**
 
-`![Screenshot – Generated Hash](screenshots/networkwalks-tools/02-generated-hash.png)`
+`![Screenshot – Generated Hash](Week3Shot/generatedhash.png)`
 
 ---
 
@@ -244,7 +244,7 @@ I opened the Networkwalks Password Cracker and entered the extracted PDF hash.
 
 **Screenshot 11: Networkwalks Password Cracker**
 
-`![Screenshot – Password Cracker](screenshots/networkwalks-tools/04-password-cracker.png)`
+`![Screenshot – Password Cracker](Week3Shot/passwordcracker.png)`
 
 ---
 
@@ -270,7 +270,7 @@ The recovered password was:
 
 **Screenshot 13: Recovered password**
 
-`![Screenshot – Recovered Password](screenshots/networkwalks-tools/06-recovered-password.png)`
+`![Screenshot – Recovered Password](Week3Shot/password recovery.png)`
 
 ---
 
@@ -282,7 +282,7 @@ The PDF opened successfully, confirming that the password recovered by the Netwo
 
 **Screenshot 14: Successfully opened PDF**
 
-`![Screenshot – PDF Opened](screenshots/networkwalks-tools/07-opened-pdf.png)`
+`![Screenshot – PDF Opened](Week3Shot/openPDF.png)`
 
 ---
 
