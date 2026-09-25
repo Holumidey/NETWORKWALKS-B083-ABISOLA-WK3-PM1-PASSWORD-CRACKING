@@ -131,7 +131,7 @@ John the Ripper then attempted to identify the password corresponding to the sup
 
 **Screenshot 5: Johnny attack in progress**
 
-![JTR Attack](screenshots/jtr/05-jtr-attack.png)
+![JTR Attack](Week3Shot/crackedpassword.png)
 
 ---
 
@@ -270,7 +270,7 @@ The recovered password was:
 
 **Screenshot 13: Recovered password**
 
-![Recovered Password](Week3Shot/password recovery.png)
+![Recovered Password](Week3Shot/passwordrecovery.png)
 
 ---
 
